@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SournVisal
-- 👀 I’m interested in Dev
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...
+- 🌱 
 
 <!---
 SournVisal/SournVisal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
